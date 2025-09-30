@@ -20,7 +20,7 @@ I'm currently open to entry-level, internship, or project-based opportunities in
 
  🤝 Let’s connect: [LinkedIn Profile] (www.linkedin.com/in/omobolanle-amoo)
  Project Access
- Click here to view the live project (https://github.com/Omobolanle-tech/easy-loan-capstone.git)
+ Click here to view the live project (https://omobolanle-tech.github.io/easy-loan-capstone/)
 
 Thank you for visiting! 💼✨  Feedback, collaboration, or connection is warmly welcomed.
 
