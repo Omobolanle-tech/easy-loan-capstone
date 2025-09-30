@@ -18,9 +18,9 @@ Hi! I’m Omobolanle Florence Amoo – a passionate Business Analyst driven by p
 
 I'm currently open to entry-level, internship, or project-based opportunities in the Business Analysis space.
 
- 🤝 Let’s connect: [LinkedIn Profile] (www.linkedin.com/in/omobolanle-amoo) 
-
-[Click here to view the live project] 
+ 🤝 Let’s connect: [LinkedIn Profile] (www.linkedin.com/in/omobolanle-amoo)
+ Project Access
+ Click here to view the live project (https://github.com/Omobolanle-tech/easy-loan-capstone.git)
 
 Thank you for visiting! 💼✨  Feedback, collaboration, or connection is warmly welcomed.
 
