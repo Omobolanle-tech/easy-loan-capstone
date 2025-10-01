@@ -13,8 +13,7 @@ It was developed as a response to the slow, stressful, and complicated loan appl
 - ✅ Agile Sprint Tasks & User Stories (via Jira)
 - ✅ Tools: Jira, Scrum, Spiral Model, Prototyping
 
-- [View Business Case](https://github.com/username/repo-name/raw/main/Business_Case.pdf)
-
+- [View Business Case] ([View SmartMed BRD](https://github.com/username/repo-name/raw/main/SmartMed_BRD.pdf)
 
  👩‍💻 About Me
 Hi! I’m Omobolanle Florence Amoo – a passionate Business Analyst driven by problem-solving and digital strategy. 
