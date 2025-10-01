@@ -13,7 +13,9 @@ It was developed as a response to the slow, stressful, and complicated loan appl
 - ✅ Agile Sprint Tasks & User Stories (via Jira)
 - ✅ Tools: Jira, Scrum, Spiral Model, Prototyping
 
-- [View Business Case]  (https://github.com/username/repo-name/raw/main/EasyLoan_BRD.pdf)
+  ### Business Requirements Document (Presentation)
+[View Easy Loan BRD Presentation](https://github.com/username/repo-name/raw/main/EasyLoan_BRD_Presentation.pdf)
+
 
  👩‍💻 About Me
 Hi! I’m Omobolanle Florence Amoo – a passionate Business Analyst driven by problem-solving and digital strategy. 
